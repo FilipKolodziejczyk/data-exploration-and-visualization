@@ -1,3 +1,6 @@
 /instructions/
 /datasets/
 /course-content/
+
+.DS_Store
+MACOSX/
